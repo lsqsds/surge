@@ -5,7 +5,7 @@
 # USER-AGENT: 2
 # PROCESS-NAME: 3
 # TOTAL: 5
-DOMAIN-KEYWORD,music.youtube.
+DOMAIN-KEYWORD,music.youtube.com
 USER-AGENT,YouTubeMusic*
 USER-AGENT,com.google.ios.youtubemusic*
 PROCESS-NAME,com.google.android.apps.youtube.music
