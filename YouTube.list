@@ -1,0 +1,13 @@
+
+# NAME: YouTubeMusic
+# AUTHOR: lsqsds
+# UPDATED: 2021-07-23 09:41:06
+# USER-AGENT: 2
+# PROCESS-NAME: 3
+# TOTAL: 5
+DOMAIN-KEYWORD,music.youtube.
+USER-AGENT,YouTubeMusic*
+USER-AGENT,com.google.ios.youtubemusic*
+PROCESS-NAME,com.google.android.apps.youtube.music
+PROCESS-NAME,com.google.android.youtube.tvmusicroot
+PROCESS-NAME,com.vanced.android.apps.youtube.music
